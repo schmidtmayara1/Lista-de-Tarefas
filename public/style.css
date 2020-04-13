@@ -1,0 +1,8 @@
+html,body{
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    width: 100%;
+    height: cal(100% - 40px);
+    color: #FFF;
+    background-color: #45bce3;
+}
